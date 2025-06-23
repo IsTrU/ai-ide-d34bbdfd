@@ -1,0 +1,22 @@
+.app {
+  font-family: 'Arial', sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.main {
+  padding: 20px;
+}
+
+.page {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.todoList {
+  margin-top: 20px;
+}
