@@ -1,0 +1,20 @@
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── TodoItem.jsx
+│   ├── CategoryFilter.jsx
+│   ├── ThemeToggle.jsx
+│   ├── StatisticsChart.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── Categories.jsx
+│   ├── Completed.jsx
+│   ├── Settings.jsx
+│   ├── Statistics.jsx
+├── App.js
+├── index.js
+├── styles/
+│   ├── App.module.css
+│   ├── Header.module.css
+│   ├── TodoItem.module.css
+│   ├── ThemeToggle.module.css
